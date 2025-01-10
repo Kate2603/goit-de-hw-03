@@ -48,10 +48,18 @@ pip install -r requirements.txt
 
 ### РЕЗУЛЬТАТ
 
+p3
+
 ![alt text](p3_ДЗ3_Velychko.jpg)
+
+p4
 
 ![alt text](p4_ДЗ3_Velychko.jpg)
 
+p5
+
 ![alt text](p5_ДЗ3_Velychko.jpg)
+
+p6
 
 ![alt text](p6_ДЗ3_Velychko.jpg)
